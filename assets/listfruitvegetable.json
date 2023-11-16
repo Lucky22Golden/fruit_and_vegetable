@@ -1,0 +1,165 @@
+{
+  "produce": [
+    {
+      "id":1,
+      "type":"fruit",
+      "name": "Apple",
+      "color": "Red",
+      "water_percent": 86,
+      "vitamins": [
+        "Vitamin C",
+        "Vitamin A"
+      ],
+      "minerals": [
+        "Potassium",
+        "Calcium"
+      ],
+      "continents": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "image": "images/apple.jpg",
+      "hexcolor": "0xFFFF0000",
+      "favorite": false
+    },
+    {
+      "id":2,
+      "type":"fruit",
+      "name": "Banana",
+      "color": "Yellow",
+      "water_percent": 74,
+      "vitamins": [
+        "Vitamin C",
+        "Vitamin B6"
+      ],
+      "minerals": [
+        "Potassium",
+        "Magnesium"
+      ],
+      "continents": [
+        "Africa",
+        "Asia",
+        "America"
+      ],
+      "image": "images/banana2.jpg",
+      "hexcolor": "0xFFFFFF00",
+      "favorite": true
+    },
+    {
+      "id":3,
+      "type":"fruit",
+      "name": "Orange",
+      "color": "Orange",
+      "water_percent": 86,
+      "vitamins": [
+        "Vitamin C",
+        "Folate"
+      ],
+      "minerals": [
+        "Potassium",
+        "Thiamine"
+      ],
+      "continents": [
+        "Asia",
+        "Africa",
+        "America"
+      ],
+      "image": "images/orange2.jpg",
+      "hexcolor":"0xFFFFA500",
+      "favorite": true
+    },
+    {
+      "id":4,
+      "type":"vegetable",
+      "name": "Carrot",
+      "color": "Orange",
+      "water_percent": 88,
+      "vitamins": [
+        "Vitamin A",
+        "Vitamin K"
+      ],
+      "minerals": [
+        "Potassium",
+        "Iron"
+      ],
+      "continents": [
+        "Europe",
+        "Asia",
+        "Africa"
+      ],
+      "image": "images/carrot.jpg",
+      "hexcolor": "0xFFFFA500",
+      "favorite": false
+    },
+    {
+      "id":5,
+      "type":"vegetable",
+      "name": "Tomato",
+      "color": "Red",
+      "water_percent": 95,
+      "vitamins": [
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "minerals": [
+        "Potassium",
+        "Folate"
+      ],
+      "continents": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "image": "images/tomato.jpg",
+      "hexcolor": "0xFFFF0000",
+      "favorite": true
+    },
+    {
+      "id":6,
+      "type":"vegetable",
+      "name": "Potato",
+      "color": "Brown",
+      "water_percent": 77,
+      "vitamins": [
+        "Vitamin C",
+        "Vitamin B6"
+      ],
+      "minerals": [
+        "Potassium",
+        "Magnesium"
+      ],
+      "continents": [
+        "South America",
+        "North America",
+        "Europe"
+      ],
+      "image": "images/potato.jpg",
+      "hexcolor": "0xFF795548",
+      "favorite": true
+    },
+    {
+      "id":7,
+      "type":"vegetable",
+      "name": "Salad",
+      "color": "Green",
+      "water_percent": 95,
+      "vitamins": [
+        "Vitamin K",
+        "Vitamin A"
+      ],
+      "minerals": [
+        "Potassium",
+        "Calcium"
+      ],
+      "continents": [
+        "Europe",
+        "North America",
+        "Asia"
+      ],
+      "image": "images/salad.jpg",
+      "hexcolor": "0xFF4CAF50",
+      "favorite": false
+    }
+  ]
+}
